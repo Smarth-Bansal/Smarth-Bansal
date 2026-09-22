@@ -7,4 +7,4 @@ AI undergrad @ IIT Kharagpur | Competitive Programmer
 - 🧠 Qualified RMO · State Topper, NSEA (Delhi)
 - 🌱 Building things at the intersection of ML and real-world problems — most recently an AI-based plant infection detector (TensorFlow + CV), selected for the INSPIRE MANAK Awards
 - 💻 Comfortable in C++ and Python; into algorithms, machine learning, and computer vision
-- 📫 [LinkedIn](https://linkedin.com/in/smarth-coder) · [Codeforces](https://codeforces.com/profile/Smarth_coder)
+- 📫 [LinkedIn](https://linkedin.com/in/smarth-coder) 
